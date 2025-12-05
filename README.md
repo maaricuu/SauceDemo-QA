@@ -21,6 +21,7 @@ The goal is to validate core functionalities (login, product listing, cart, chec
   - BUG-007:*Back navigation on Product Details returns to top of page (Minor/Low)  
     
 - **Test Cases**
+  
   LOGIN TESTS
   - TC-001: Login with valid credentials (PASS)
   - TC-002: Login with invalid credentials (PASS)
