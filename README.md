@@ -101,12 +101,13 @@ The goal is to validate core functionalities (login, product listing, cart, chec
 ---
 
 📂 Documentation Links
-- [Test Plan](TestPlan_SauceDemo.md)
+- [Test Plan](SauceDemo_TestPlan.pdf)
 - [Test Cases](TestCases_SauceDemo.xlsx)
 - [Bug Report](BugReport_SauceDemo.xlsx)
-- [Traceability Matrix](TraceabilityMatrix_SauceDemo.xlsx)
-- [Mind Map](MindMap_SauceDemo.png)
-- [Summary Report](SummaryReport_SauceDemo.pdf)
+- [Traceability Matrix](Traceability_matrix.xlsx)
+- [Mind Map](MindMap.png)
+- [Summary Report](SummaryReport_SauceDemo.docx)
+- [Screenshots Folder](Attachments_BugReport/)
  
 ---
 
