@@ -19,7 +19,6 @@ The goal is to validate core functionalities (login, product listing, cart, chec
   - BUG-005: ZIP field accepts special characters (Minor/Low)
   - BUG-006: Product image over-zooms on mobile resolution (Minor/Low)
   - BUG-007:*Back navigation on Product Details returns to top of page (Minor/Low)  
-  - Test Types: Functional, UI, Regression, Smoke.
     
 - **Test Cases**
   LOGIN TESTS
