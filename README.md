@@ -20,7 +20,7 @@ The goal is to validate core functionalities (login, product listing, cart, chec
   - BUG-006: Product image over-zooms on mobile resolution (Minor/Low)
   - BUG-007:*Back navigation on Product Details returns to top of page (Minor/Low)  
   - Test Types: Functional, UI, Regression, Smoke.
-  - 
+    
 - **Test Cases**
   LOGIN TESTS
   - TC-001: Login with valid credentials (PASS)
