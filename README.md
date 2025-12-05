@@ -72,7 +72,7 @@ The goal is to validate core functionalities (login, product listing, cart, chec
 | Passed                     | 15                        |
 | Failed                     | 0                         |
 | Bugs Logged                | 7                         |
-| Execution Date             | 01–02/12/2025             |
+| Execution Date             | 05/12/2025             |
 | Browsers Used              | Chrome (Desktop & Mobile) |
 | OS                         | Windows 11, Android 14    |
 
